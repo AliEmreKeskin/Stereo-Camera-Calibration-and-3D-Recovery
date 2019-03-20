@@ -1,0 +1,10 @@
+﻿cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  OpenGL_on_a_Windows_Form.cpp
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.15.26726\include\yvals.h(215): warning STL4001: /clr:pure is deprecated and will be REMOVED.
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d gösterim\opengl_on_a_windows_form\form1.h(375): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d gösterim\opengl_on_a_windows_form\form1.h(380): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d gösterim\opengl_on_a_windows_form\form1.h(385): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d gösterim\opengl_on_a_windows_form\form1.h(390): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d gösterim\opengl_on_a_windows_form\form1.h(395): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  OpenGL_on_a_Windows_Form.vcxproj -> D:\OneDrive - Karadeniz Teknik University\KTÜ Bilgisayar\3. Sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d gösterim\Debug\OpenGL_on_a_Windows_Form.exe

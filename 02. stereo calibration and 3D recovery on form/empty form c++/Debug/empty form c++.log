@@ -1,0 +1,219 @@
+﻿  MyForm.cpp
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(334): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(336): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(338): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(342): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(343): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(344): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(345): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(346): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(347): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(348): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(333): warning C4101: 'iFileTest': unreferenced local variable
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(376): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(377): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(378): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(379): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(397): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(399): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(401): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(405): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(406): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(407): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(408): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(409): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(410): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(411): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\empty form c++\myform.h(396): warning C4101: 'iFileTest': unreferenced local variable
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\util\memory.h(929): warning C4793: 'Eigen::internal::queryCacheSizes': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\mathfunctions.h(542): warning C4793: 'Eigen::numext::sqrt<float>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\mathfunctions.h(542): warning C4793: 'Eigen::numext::sqrt<float>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\util\memory.h(909): warning C4793: 'Eigen::internal::queryCacheSizes_amd': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\util\memory.h(912): warning C4793: 'Eigen::internal::queryCacheSizes_amd': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\util\memory.h(793): warning C4793: 'Eigen::internal::queryCacheSizes_intel_direct': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\util\memory.h(822): warning C4793: 'Eigen::internal::queryCacheSizes_intel_codes': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(358): warning C4793: 'Eigen::internal::pstore<float,__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(363): warning C4793: 'Eigen::internal::pstoreu<float,__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(178): warning C4793: 'Eigen::internal::pset1<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(306): warning C4793: 'Eigen::internal::pload<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(225): warning C4793: 'Eigen::internal::pmul<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(198): warning C4793: 'Eigen::internal::padd<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(202): warning C4793: 'Eigen::internal::psub<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(320): warning C4793: 'Eigen::internal::ploadu<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(640): warning C4793: 'Eigen::internal::predux_max<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(640): warning C4793: 'Eigen::internal::predux_max<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(641): warning C4793: 'Eigen::internal::predux_max<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(641): warning C4793: 'Eigen::internal::predux_max<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(542): warning C4793: 'Eigen::internal::predux<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(542): warning C4793: 'Eigen::internal::predux<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(543): warning C4793: 'Eigen::internal::predux<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(543): warning C4793: 'Eigen::internal::predux<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(426): warning C4793: 'Eigen::internal::pfirst<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(718): warning C4793: 'Eigen::internal::palign_impl<1,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(719): warning C4793: 'Eigen::internal::palign_impl<1,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(719): warning C4793: 'Eigen::internal::palign_impl<1,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(719): warning C4793: 'Eigen::internal::palign_impl<1,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(723): warning C4793: 'Eigen::internal::palign_impl<1,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(724): warning C4793: 'Eigen::internal::palign_impl<1,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(728): warning C4793: 'Eigen::internal::palign_impl<1,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(729): warning C4793: 'Eigen::internal::palign_impl<1,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(718): warning C4793: 'Eigen::internal::palign_impl<2,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(719): warning C4793: 'Eigen::internal::palign_impl<2,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(719): warning C4793: 'Eigen::internal::palign_impl<2,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(719): warning C4793: 'Eigen::internal::palign_impl<2,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(723): warning C4793: 'Eigen::internal::palign_impl<2,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(724): warning C4793: 'Eigen::internal::palign_impl<2,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(728): warning C4793: 'Eigen::internal::palign_impl<2,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(729): warning C4793: 'Eigen::internal::palign_impl<2,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(718): warning C4793: 'Eigen::internal::palign_impl<3,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(719): warning C4793: 'Eigen::internal::palign_impl<3,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(719): warning C4793: 'Eigen::internal::palign_impl<3,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(719): warning C4793: 'Eigen::internal::palign_impl<3,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(723): warning C4793: 'Eigen::internal::palign_impl<3,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(724): warning C4793: 'Eigen::internal::palign_impl<3,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(728): warning C4793: 'Eigen::internal::palign_impl<3,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(729): warning C4793: 'Eigen::internal::palign_impl<3,__m128>::run': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(773): warning C4793: 'Eigen::internal::ptranspose': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(773): warning C4793: 'Eigen::internal::ptranspose': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(773): warning C4793: 'Eigen::internal::ptranspose': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(773): warning C4793: 'Eigen::internal::ptranspose': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(773): warning C4793: 'Eigen::internal::ptranspose': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(773): warning C4793: 'Eigen::internal::ptranspose': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(773): warning C4793: 'Eigen::internal::ptranspose': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(773): warning C4793: 'Eigen::internal::ptranspose': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(413): warning C4793: 'Eigen::internal::prefetch<float>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(469): warning C4793: 'Eigen::internal::pbroadcast4<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(469): warning C4793: 'Eigen::internal::pbroadcast4<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(469): warning C4793: 'Eigen::internal::pbroadcast4<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(470): warning C4793: 'Eigen::internal::pbroadcast4<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(470): warning C4793: 'Eigen::internal::pbroadcast4<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(470): warning C4793: 'Eigen::internal::pbroadcast4<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(471): warning C4793: 'Eigen::internal::pbroadcast4<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(471): warning C4793: 'Eigen::internal::pbroadcast4<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(471): warning C4793: 'Eigen::internal::pbroadcast4<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(472): warning C4793: 'Eigen::internal::pbroadcast4<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(472): warning C4793: 'Eigen::internal::pbroadcast4<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(472): warning C4793: 'Eigen::internal::pbroadcast4<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(381): warning C4793: 'Eigen::internal::pscatter<float,__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(382): warning C4793: 'Eigen::internal::pscatter<float,__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(382): warning C4793: 'Eigen::internal::pscatter<float,__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(383): warning C4793: 'Eigen::internal::pscatter<float,__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(383): warning C4793: 'Eigen::internal::pscatter<float,__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(384): warning C4793: 'Eigen::internal::pscatter<float,__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(384): warning C4793: 'Eigen::internal::pscatter<float,__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(266): warning C4793: 'Eigen::internal::pmax<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(243): warning C4793: 'Eigen::internal::pdiv<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(208): warning C4793: 'Eigen::internal::pnegate<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(208): warning C4793: 'Eigen::internal::pnegate<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(209): warning C4793: 'Eigen::internal::pnegate<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(368): warning C4793: 'Eigen::internal::pgather<float,__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(444): warning C4793: 'Eigen::internal::pabs<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(444): warning C4793: 'Eigen::internal::pabs<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\onedrive - karadeniz teknik university\ktü bilgisayar\3. sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\sse\packetmath.h(445): warning C4793: 'Eigen::internal::pabs<__m128>': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  empty form c++.vcxproj -> D:\OneDrive - Karadeniz Teknik University\KTÜ Bilgisayar\3. Sınıf 2017-2018\staj\07.24 senaryo devam ve mono\senaryo 3d algılama\Debug\empty form c++.exe
